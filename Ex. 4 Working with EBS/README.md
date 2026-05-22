@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Sarankumar.V
+* **Register Number**: 212224220089
+* **Date of Submission**: 22.05.2026
 
 ---
 
@@ -78,13 +78,11 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+Accessed IAM console and reviewed users and groups.
+Inspected policy permissions attached to groups.
+Assigned users to groups based on their roles.
+Logged in as each IAM user using the sign-in URL.
+Validated permissions by accessing AWS services.
 
 ---
 
@@ -92,19 +90,21 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="913" height="418" alt="image" src="https://github.com/user-attachments/assets/c1b42206-44e7-4f57-998f-a90aad6b43c3" />
+
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/2d6cf774-0d58-4ea5-a474-cd5eab2e4161" />
+
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="943" height="478" alt="image" src="https://github.com/user-attachments/assets/50e7caa9-a5ac-4627-893d-faa772ff5c48" />
 
 ---
 
